@@ -11,7 +11,6 @@ award = referenceFolder + 'award.png'
 threeHundred = referenceFolder + '300.png'
 giveAward = referenceFolder + 'give_award.png'
 next = referenceFolder + 'next.png'
-disabled = referenceFolder + 'disabled.png'
 award2 = referenceFolder + 'award2.png'
 
 # buttons
